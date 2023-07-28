@@ -1,0 +1,2 @@
+Prefix plugins/SeqPrep/example
+Plugin SeqPrep inputfile parameters.txt outputfile .
